@@ -7,11 +7,9 @@
 1.**Индивидуальное задание**: сделать ментальную карту.
 ### Пара №3. 12:20 - 13:05, 13:10 -13:55
 1.**Индивидуальное задание**: сделать ментальную карту.
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.mindmeister.com/app/map/3315447195">
- <source media="(prefers-color-scheme: light)" srcset="https://www.mindmeister.com/app/map/3315447195">
- <img alt="YOUR-ALT-TEXT" src="https://www.mindmeister.com/app/map/3315447195">
-</picture>
+
+![ментальная карта](C:\Users\209_01\Downloads\ментальная карта.png)
+
 2.Выполнить задание в Блендере.
 ### Пара №4. 14:05 - 14:50, 14:55 - 15:40
 1.Выполнить задание в Блендере.
